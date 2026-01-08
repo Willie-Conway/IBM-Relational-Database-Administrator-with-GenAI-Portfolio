@@ -302,8 +302,8 @@ This portfolio is licensed under the MIT License - see the [LICENSE](LICENSE) fi
 
 **Your Name**  
 - GitHub: [@Willie-Conway](https://github.com/Willie-Conway)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/willieconway/)
+- Email: hire.willie.conway@gmail.com
 
 ---
 
