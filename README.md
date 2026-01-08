@@ -284,7 +284,7 @@ IBM-Relational-Database-Administrator-Portfolio/
 
 ## 📖 **Learning Resources**
 
-- [IBM Relational Database Administrator Certificate](https://www.coursera.org/professional-certificates/ibm-relational-database-administrator-genai)
+- [IBM Relational Database Administrator Certificate](https://www.coursera.org/professional-certificates/ibm-relational-database-administrator)
 - [PostgreSQL Official Documentation](https://www.postgresql.org/docs/)
 - [MySQL Reference Manual](https://dev.mysql.com/doc/)
 - [Apache Airflow Documentation](https://airflow.apache.org/docs/)
