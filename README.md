@@ -8,6 +8,15 @@
 
 Welcome to my comprehensive portfolio documenting the completion of the **IBM Relational Database Administrator with GenAI Certificate**! This repository showcases hands-on projects, labs, and assignments covering relational database administration, data warehousing, ETL pipelines, and cutting-edge Generative AI integration for database management and optimization.
 
+<p float="left">
+    <img src="https://github.com/Willie-Conway/IBM-Relational-Database-Administrator-with-GenAI-Portfolio/blob/f9fb0d5775f93419924c26fc052c09dfe9937ccd/Generative%20AI%20-%20Elevate%20your%20Data%20Engineering%20Career/Labs/Final%20Project/Final%20Project/Screenshots/ezgif.com-crop.gif" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Relational-Database-Administrator-with-GenAI-Portfolio/blob/f9fb0d5775f93419924c26fc052c09dfe9937ccd/Generative%20AI%20-%20Elevate%20your%20Data%20Engineering%20Career/Labs/Final%20Project/Final%20Project/Screenshots/screen-capture24-ezgif.com-crop.gif" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Relational-Database-Administrator-with-GenAI-Portfolio/blob/f9fb0d5775f93419924c26fc052c09dfe9937ccd/Generative%20AI%20-%20Elevate%20your%20Data%20Engineering%20Career/Labs/Generative%20AI%20for%20Database%2C%20Data%20Warehouse%20Schema%20Design/Screenshots/screen-capture20-ezgif.com-crop.gif" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Relational-Database-Administrator-with-GenAI-Portfolio/blob/f9fb0d5775f93419924c26fc052c09dfe9937ccd/Generative%20AI%20-%20Elevate%20your%20Data%20Engineering%20Career/Labs/Generative%20AI%20for%20Database%2C%20Data%20Warehouse%20Schema%20Design/Screenshots/screen-capture21-ezgif.com-crop.gif" width="300" />
+   <img src="https://github.com/Willie-Conway/IBM-Relational-Database-Administrator-with-GenAI-Portfolio/blob/f9fb0d5775f93419924c26fc052c09dfe9937ccd/Introduction%20to%20Relational%20Databases%20(RDBMS)/Final%20Project/Database%20Design%20and%20Implementation/Screenshots/Completed%20COFFEE%20ERD%20Database.png" width="300" />
+   <img src="https://github.com/Willie-Conway/IBM-Relational-Database-Administrator-with-GenAI-Portfolio/blob/f9fb0d5775f93419924c26fc052c09dfe9937ccd/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Labs/Working%20with%20Joins%20in%20MySQL%20using%20phpMyAdmin/Screenshots/JOINS.png" width="300" />
+</p>
+
 ## 🏆 Certificate Details
 
 - **Certificate**: IBM Relational Database Administrator with GenAI Certificate
