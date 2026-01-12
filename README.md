@@ -2,7 +2,13 @@
 
 ![IBM Relational Database Administrator](https://images.credly.com/size/680x680/images/31a24eb9-5fb6-4d3b-b2be-c286c3cc3489/Coursera_20Data_20Engineering_20Professional_20Cert_20V3.png)
 
-![GitHub](https://img.shields.io/badge/IBM-Relational%20Database%20Administration-blue) ![GitHub](https://img.shields.io/badge/Specialization-Generative%20AI%20Integration-orange) ![GitHub](https://img.shields.io/badge/Status-Completed-brightgreen) ![GitHub](https://img.shields.io/badge/Projects-10+-success)
+![IBM Relational Database Administrator](https://img.shields.io/badge/IBM-Relational%20Database%20Administrator-FF6B35?style=for-the-badge&logo=ibm&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🎯 Overview
 
