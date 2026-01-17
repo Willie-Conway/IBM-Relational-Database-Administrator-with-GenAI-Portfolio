@@ -1,6 +1,6 @@
 # 🗄️ IBM Relational Database Administrator with GenAI Certificate Portfolio
 
-![IBM Relational Database Administrator](https://images.credly.com/size/680x680/images/31a24eb9-5fb6-4d3b-b2be-c286c3cc3489/Coursera_20Data_20Engineering_20Professional_20Cert_20V3.png)
+![IBM Relational Database Administrator](https://github.com/Willie-Conway/IBM-Relational-Database-Administrator-with-GenAI-Portfolio/blob/1c3d2839bfad1a32c1ecefa01390234c449fbcf2/Images/Relational-Database-Administrator-Gen-AI.png)
 
 ![IBM Relational Database Administrator](https://img.shields.io/badge/IBM-Relational%20Database%20Administrator-FF6B35?style=for-the-badge&logo=ibm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
